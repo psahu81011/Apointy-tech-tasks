@@ -38,6 +38,7 @@
 
 .footers{
   color: #aaaaaa;
+  font-size: 0.5em;
 }
 
 .right{
@@ -52,4 +53,9 @@
 }
 .remove-padding{
   padding: 0;
+}
+
+.nextbtn .previouslink{
+  display: none;
+  visibility: hidden;
 }
